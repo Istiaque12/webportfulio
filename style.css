@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+
+}
+span{
+    color: red;
+}
+h3{
+    font-style: italic;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 50%;
+}
+img{
+    border-radius: 30%;
+}
