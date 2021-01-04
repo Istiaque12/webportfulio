@@ -39,3 +39,15 @@ body{
     font-weight: 700;
     font-style: oblique;
 }
+h2{
+    font-style: italic;
+}
+.second{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.second p {
+    color: blue;
+}
